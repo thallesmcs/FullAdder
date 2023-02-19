@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "cout",
+					"strict" : false
+				},
+				{
+					"name" : "soma0",
+					"strict" : false
+				},
+				{
+					"name" : "soma1",
+					"strict" : false
+				},
+				{
+					"name" : "soma2",
+					"strict" : false
+				},
+				{
+					"name" : "soma3",
+					"strict" : false
+				},
+				{
+					"name" : "soma4",
+					"strict" : false
+				},
+				{
+					"name" : "soma5",
+					"strict" : false
+				},
+				{
+					"name" : "soma6",
+					"strict" : false
+				},
+				{
+					"name" : "soma7",
+					"strict" : false
+				},
+				{
+					"name" : "a7",
+					"strict" : false
+				},
+				{
+					"name" : "b7",
+					"strict" : false
+				},
+				{
+					"name" : "a6",
+					"strict" : false
+				},
+				{
+					"name" : "b6",
+					"strict" : false
+				},
+				{
+					"name" : "a5",
+					"strict" : false
+				},
+				{
+					"name" : "b5",
+					"strict" : false
+				},
+				{
+					"name" : "a4",
+					"strict" : false
+				},
+				{
+					"name" : "b4",
+					"strict" : false
+				},
+				{
+					"name" : "a3",
+					"strict" : false
+				},
+				{
+					"name" : "b3",
+					"strict" : false
+				},
+				{
+					"name" : "a2",
+					"strict" : false
+				},
+				{
+					"name" : "b2",
+					"strict" : false
+				},
+				{
+					"name" : "a1",
+					"strict" : false
+				},
+				{
+					"name" : "b1",
+					"strict" : false
+				},
+				{
+					"name" : "a0",
+					"strict" : false
+				},
+				{
+					"name" : "b0",
+					"strict" : false
+				},
+				{
+					"name" : "cin",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

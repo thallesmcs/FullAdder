@@ -1,0 +1,141 @@
+|FAA8
+cin => FAA:F0.cin
+a0 => FAA:F0.a
+a1 => FAA:F1.a
+a2 => FAA:F2.a
+a3 => FAA:F3.a
+a4 => FAA:F4.a
+a5 => FAA:F5.a
+a6 => FAA:F6.a
+a7 => FAA:F7.a
+b0 => FAA:F0.b
+b1 => FAA:F1.b
+b2 => FAA:F2.b
+b3 => FAA:F3.b
+b4 => FAA:F4.b
+b5 => FAA:F5.b
+b6 => FAA:F6.b
+b7 => FAA:F7.b
+cout << FAA:F7.cout
+soma0 << FAA:F0.soma
+soma1 << FAA:F1.soma
+soma2 << FAA:F2.soma
+soma3 << FAA:F3.soma
+soma4 << FAA:F4.soma
+soma5 << FAA:F5.soma
+soma6 << FAA:F6.soma
+soma7 << FAA:F7.soma
+
+
+|FAA8|FAA:F0
+a => soma.IN1
+a => cout.IN0
+a => cout.IN0
+b => soma.IN0
+b => cout.IN1
+b => cout.IN0
+cin => soma.IN1
+cin => cout.IN1
+cin => cout.IN1
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+soma <= soma.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FAA8|FAA:F1
+a => soma.IN1
+a => cout.IN0
+a => cout.IN0
+b => soma.IN0
+b => cout.IN1
+b => cout.IN0
+cin => soma.IN1
+cin => cout.IN1
+cin => cout.IN1
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+soma <= soma.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FAA8|FAA:F2
+a => soma.IN1
+a => cout.IN0
+a => cout.IN0
+b => soma.IN0
+b => cout.IN1
+b => cout.IN0
+cin => soma.IN1
+cin => cout.IN1
+cin => cout.IN1
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+soma <= soma.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FAA8|FAA:F3
+a => soma.IN1
+a => cout.IN0
+a => cout.IN0
+b => soma.IN0
+b => cout.IN1
+b => cout.IN0
+cin => soma.IN1
+cin => cout.IN1
+cin => cout.IN1
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+soma <= soma.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FAA8|FAA:F4
+a => soma.IN1
+a => cout.IN0
+a => cout.IN0
+b => soma.IN0
+b => cout.IN1
+b => cout.IN0
+cin => soma.IN1
+cin => cout.IN1
+cin => cout.IN1
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+soma <= soma.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FAA8|FAA:F5
+a => soma.IN1
+a => cout.IN0
+a => cout.IN0
+b => soma.IN0
+b => cout.IN1
+b => cout.IN0
+cin => soma.IN1
+cin => cout.IN1
+cin => cout.IN1
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+soma <= soma.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FAA8|FAA:F6
+a => soma.IN1
+a => cout.IN0
+a => cout.IN0
+b => soma.IN0
+b => cout.IN1
+b => cout.IN0
+cin => soma.IN1
+cin => cout.IN1
+cin => cout.IN1
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+soma <= soma.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|FAA8|FAA:F7
+a => soma.IN1
+a => cout.IN0
+a => cout.IN0
+b => soma.IN0
+b => cout.IN1
+b => cout.IN0
+cin => soma.IN1
+cin => cout.IN1
+cin => cout.IN1
+cout <= cout.DB_MAX_OUTPUT_PORT_TYPE
+soma <= soma.DB_MAX_OUTPUT_PORT_TYPE
+
+
